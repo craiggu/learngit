@@ -5,4 +5,5 @@ Creating a new branch is quick.
 This line is added in dev branch,but deleted in master branch.
 This line is added in dev branch too.
 This line in added in dev branch the 3rd times.
+This line is added in Github.
 
