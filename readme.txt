@@ -7,4 +7,5 @@ This line added in master branch too.
 This line is added in dev branch,but deleted in master branch.
 This line is added in dev branch too.
 This line is used for stash.
+This line is the second line for stash.
 
